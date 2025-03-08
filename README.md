@@ -67,7 +67,7 @@
 ---
 
 ## 🎉 Fun Facts  
-- 🔥 **First line of code**: "Hello, World!" in Python  
+- 🔥 **First line of code**: "Hello, World!" in HTML  
 - 🌍 **Dream tech company**: Google, Microsoft, or OpenAI  
 - 🎮 **Hobbies**: Coding, Gaming, Watching Tech Documentaries  
 - 📖 **Favorite book**: "Clean Code" by Robert C. Martin  
