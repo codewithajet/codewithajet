@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00C1FF&center=true&width=600&lines=Full-Stack+%7C+Web+%7C+App+%7C+AI+Developer;Creating+Intuitive+and+Scalable+Solutions;Passionate+About+Tech+%26+Innovation" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=damilareajet&label=Profile+Views&color=00C1FF&style=flat" alt="Profile Views" />
-</p>
 
 ---
 
