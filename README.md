@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌊 Hi there, I'm Damilare Ajet 
+# 🌊 Hi there, I'm Damilare Ajetunmobi 
 ## ✨ Full-Stack | Web | App | AI Developer ✨
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🚀+Creating+Intuitive+%26+Scalable+Solutions;💡+Passionate+About+Tech+%26+Innovation;🌟+Building+The+Future+With+Code;🎯+Turning+Ideas+Into+Digital+Reality" alt="Typing Animation" />
@@ -285,6 +285,6 @@
 
 ---
 
-<sup>Made with 💙 and lots of ☕ by Damilare Ajet</sup>
+<sup>Made with 💙 and lots of ☕ by Damilare Ajetunmobi</sup>
 
 </div>
